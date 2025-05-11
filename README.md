@@ -1,2 +1,2 @@
-Running java project with so far:
+Running java project with, so far:
 > Spring Boot
